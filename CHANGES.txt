@@ -1,2 +1,2 @@
-TBD, copypl v1.0.0
+2019-01-13, copypl v1.0.0
   * Initial release.

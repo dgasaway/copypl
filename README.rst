@@ -105,4 +105,3 @@ If you do not have access to install system packages, or do not wish to install
 in the system location, it can be installed in a user folder::
 
     $ python setup.py install --user
-
