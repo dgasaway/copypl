@@ -16,8 +16,8 @@ setup(
     long_description_content_type='text/x-rst',
     author='David Gasaway',
     author_email='dave@gasaway.org',
-    url='https://bitbucket.org/dgasaway/copypl',
-    download_url='https://bitbucket.org/dgasaway/copypl/downloads/',
+    url='https://github.com/dgasaway/copypl',
+    download_url='https://github.com/dgasaway/copypl/releases',
     license='GNU GPL v2',
     py_modules=['copypl/copypl', 'copypl/_version'],
     entry_points={

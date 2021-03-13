@@ -2,7 +2,7 @@
 
 # copypl - Copies files referenced by an m3u/m3u8/pls playlist.
 # Copyright (C) 2019 David Gasaway
-# https://bitbucket.org/dgasaway/copypl
+# https://github.com/dgasaway/copypl
 
 # This program is free software; you can redistribute it and/or modify it under the terms of the GNU
 # General Public License as published by the Free Software Foundation; either version 2 of the

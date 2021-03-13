@@ -61,7 +61,8 @@ folder will get copied repeatedly.
 Installation
 ============
 
-.. warning::
+Warning
+-------
 
     Some Linux distributions discourage installation of system-level python
     packages using ``pip`` or ``setup.py install``, due to collisions with the
@@ -87,14 +88,14 @@ Installing from source
 ----------------------
 
 Either download a release tarball from the
-`Downloads <https://bitbucket.org/dgasaway/copypl/downloads/>`_ page, and
+`Releases <https://github.com/dgasaway/copypl/releases>`_ page, and
 unpack::
 
     $ tar zxvf copypl-1.0.0.tar.gz
 
-Or get the latest source from the Mercurial repository::
+Or get the latest source from the git repository::
 
-    $ hg clone https://bitbucket.org/dgasaway/copypl
+    $ git clone https://bitbucket.org/dgasaway/copypl
 
 If you have access to install software in the system packages, then it can be
 installed as administrator::
